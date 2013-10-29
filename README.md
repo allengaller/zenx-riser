@@ -1,18 +1,56 @@
-# Riser 锐升目标管理 - 告别平庸, 享受理想#
-*aka the coder.cash project*
+# Riser #
+
 
 About
 -----
 Stop Careering. Start Contributing.
 
 
-For who?
+Target user
+------------
+Coming soon   
+
+Why Riser
+---------
+Coming soon   
+
+Feature
+-------
+Coming soon   
+
+Client Installation
+-------------------
+Coming soon   
+
+Server Deployment
+-----------------
+Coming soon   
+
+About us
 --------
+Coming soon   
+
+Donation
+--------
+Coming soon   
+
+# 锐升目标管理 - 告别平庸, 享受理想 #
+*aka the coder.cash project*
+
+关于
+----
+Coming soon   
+
+目标用户
+--------
+
 * 有目标的任何人   
 * 有理想有情怀的码农   
 
-Why?
-----
+
+为何要做锐升
+------------
+
 * 我们的理想总是很丰满, 现实总是很骨感.   
 * 我们的一个个目标, 就是理想与现实的中间件   
 * 我们要在实现目标的过程中, 享受理想.
@@ -20,3 +58,22 @@ Why?
 * 我们要和爱的人一起, 在一辈子中活几辈子.
 * 我们需要真正锐智的目标管理器.
 
+功能特性
+-------
+Coming soon   
+
+客户端安装
+---------
+Coming soon   
+
+服务器端部署
+-----------
+Coming soon   
+
+于我们
+--------
+Coming soon   
+
+捐赠
+----
+Coming soon   
