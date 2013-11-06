@@ -1,14 +1,14 @@
-# Riser #
+# Riser - Live with Goals #
 
 
 About
 -----
-Stop Careering. Start Contributing.
+Riser is a goal management system for team or personal usage.   
 
 
 Target user
 ------------
-Coming soon   
+Anyone who want to achieve their goals.   
 
 Why Riser
 ---------
@@ -16,11 +16,20 @@ Coming soon
 
 Feature
 -------
-Coming soon   
+
+* Brainless : Simple, Easy, Friendly.   
+* Painless : Schedule up with your iCal or Google Calendar.
+* Safe : Backup all your data regularly and precisely.   
+* Review & Report : Aware of your progress.   
+* Share : Tell everyone you are awesome or failing.   
 
 Client Installation
 -------------------
-Coming soon   
+Web entrance: [http://riser.apps4coder.com](http://riser.apps4coder.com)
+iOS Client: [Download](http://ios.riser.apps4coder.com)   
+Android Client: [Download](http://ios.riser.apps4coder.com)   
+Mac Client: Coming soon.   
+Linux Client: Coming soon.   
 
 Server Deployment
 -----------------
@@ -28,7 +37,7 @@ Coming soon
 
 About us
 --------
-Coming soon   
+apps4coder
 
 Donation
 --------
